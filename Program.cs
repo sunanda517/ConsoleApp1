@@ -8,6 +8,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I am understanding the concepts!!!");
+            for(int i = 0; i < 40; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
